@@ -1,0 +1,42 @@
+#page{
+    background-color: #BEB2C8;
+}
+
+.main-header{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.section-header{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.subheader{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.img{
+    display: block;
+    width: auto;
+    height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#header-text{
+    text-align: center;
+}
+
+#closing{
+    text-align: center;
+}
