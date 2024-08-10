@@ -32,5 +32,6 @@
 .achievements-list {
   list-style: none;
   width: 100%;
-  margin-left: -3.25%;
+  padding: 0%;
+  box-sizing: border-box;
 }
