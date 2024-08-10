@@ -4,7 +4,7 @@
 
 .main-header{
     display: block;
-    width: 500px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -12,7 +12,7 @@
 
 .section-header{
     display: block;
-    width: 500px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -27,8 +27,8 @@
 
 .img{
     display: block;
-    width: auto;
-    height: 400px;
+    width: 50%;
+    height: auto;
     margin-right: auto;
     margin-left: auto;
 }
